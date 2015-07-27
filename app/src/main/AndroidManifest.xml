@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="app.test.com.jenkins_app" >
+    package="jenkins_grovle_test.com.jenkins_android_grovle_testing" >
 
     <application
         android:allowBackup="true"
