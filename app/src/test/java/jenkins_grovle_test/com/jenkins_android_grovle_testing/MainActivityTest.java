@@ -15,7 +15,7 @@ public class MainActivityTest extends TestCase {
     }
     @Test
     public void testFake2() throws Exception {
-        Assert.assertFalse(true);
+        Assert.assertFalse(false);
     }
     @Test
     public void testFake3() throws Exception {
